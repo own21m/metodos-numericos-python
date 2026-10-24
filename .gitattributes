@@ -1,0 +1,6 @@
+# Preservar exactamente los bytes de los cuadernos.
+*.ipynb -text
+# Usar LF en la documentación nueva.
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf

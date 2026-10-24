@@ -1,0 +1,4 @@
+# Dependencias importadas en los trabajos originales; versiones no fijadas.
+numpy
+scipy
+matplotlib

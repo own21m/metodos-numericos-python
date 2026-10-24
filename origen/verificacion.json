@@ -1,0 +1,96 @@
+{
+  "notebook_execution": false,
+  "authorship_confirmation": "Direct user confirmation reported by root on 2026-10-24.",
+  "notebooks": [
+    {
+      "original_title": "Untitled6.ipynb",
+      "drive_id": "1AG_yACdKewfNl876hwYx-L-SXF80XIcy",
+      "path": "notebooks/01-interpolacion-vandermonde.ipynb",
+      "bytes": 25823,
+      "sha256": "49789d048dda9083cfb9c50fe3dd0538de6dd250bf8340eb31898bf8a4097f1d",
+      "nbformat": 4,
+      "nbformat_minor": 0,
+      "cells": 1,
+      "cell_types": {
+        "code": 1
+      },
+      "saved_outputs": 2,
+      "nonempty_code_cells_ast_parsed": 1,
+      "original_bytes_preserved": true,
+      "notebook_executed": false,
+      "review_path": "docs/01-interpolacion-vandermonde.md"
+    },
+    {
+      "original_title": "eulerMN.ipynb",
+      "drive_id": "182C3nrIYW3U3yFHMg62kFaT8nvAcVUmF",
+      "path": "notebooks/02-euler-heun.ipynb",
+      "bytes": 228121,
+      "sha256": "ff239338ba9c7ff26f9630ea3cebab9d4a033f21b4b21c8b65cb84ede35097aa",
+      "nbformat": 4,
+      "nbformat_minor": 0,
+      "cells": 3,
+      "cell_types": {
+        "code": 3
+      },
+      "saved_outputs": 6,
+      "nonempty_code_cells_ast_parsed": 3,
+      "original_bytes_preserved": true,
+      "notebook_executed": false,
+      "review_path": "docs/02-euler-heun.md"
+    },
+    {
+      "original_title": "Untitled7.ipynb",
+      "drive_id": "1YPHrNoyXKwWKi7hAm9lM9ypKl74jHfik",
+      "path": "notebooks/03-rbf-ensayos.ipynb",
+      "bytes": 73485,
+      "sha256": "33caab13cf4fbc5ac88fefce927698dab66ef176cb186af0d25c5c6a182f0d87",
+      "nbformat": 4,
+      "nbformat_minor": 0,
+      "cells": 3,
+      "cell_types": {
+        "code": 3
+      },
+      "saved_outputs": 3,
+      "nonempty_code_cells_ast_parsed": 3,
+      "original_bytes_preserved": true,
+      "notebook_executed": false,
+      "review_path": "docs/03-rbf-ensayos.md"
+    },
+    {
+      "original_title": "Untitled8.ipynb",
+      "drive_id": "1X8_4-4J5ScVdcweiYrrgXtE5_UeGbcXf",
+      "path": "notebooks/04-rbf-cubica-frontera.ipynb",
+      "bytes": 157583,
+      "sha256": "3cc3062dc684e1b5f7afb22ce26d361f10c78334a2f9fc7e72c7584fe42569a5",
+      "nbformat": 4,
+      "nbformat_minor": 0,
+      "cells": 2,
+      "cell_types": {
+        "code": 2
+      },
+      "saved_outputs": 5,
+      "nonempty_code_cells_ast_parsed": 2,
+      "original_bytes_preserved": true,
+      "notebook_executed": false,
+      "review_path": "docs/04-rbf-cubica-frontera.md"
+    },
+    {
+      "original_title": "Untitled9.ipynb",
+      "drive_id": "1Amj4qOMQ1WkuUtv9tJzt2HAdbYQ7pMet",
+      "path": "notebooks/05-diferencias-finitas-borradores.ipynb",
+      "bytes": 454274,
+      "sha256": "c00e9f819e3517475bfdba587a06ce93920a7363da6a616a5386fc9975ab8d58",
+      "nbformat": 4,
+      "nbformat_minor": 0,
+      "cells": 10,
+      "cell_types": {
+        "code": 10
+      },
+      "saved_outputs": 12,
+      "nonempty_code_cells_ast_parsed": 8,
+      "original_bytes_preserved": true,
+      "notebook_executed": false,
+      "review_path": "docs/05-diferencias-finitas-borradores.md"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Entornos y archivos temporales de Python/Jupyter.
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
